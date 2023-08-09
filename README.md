@@ -10,7 +10,7 @@ See all my previous projects and my complete experience at [dev-nichola.my.id](h
 
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
-![Next JS]([https://img.shields.io/badge/-react_native-blue?style=for-the-badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white))
+![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/-Mongodb-brightgreen?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
