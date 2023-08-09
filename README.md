@@ -6,4 +6,4 @@ I work on many projects, ranging from blog applications, Point on Sale etc. Righ
 
 See all my previous projects and my complete experience at [dev-nichola.my.id](https://dev-nichola.my.id)
 
-## Thanks for Coming🤗
+
