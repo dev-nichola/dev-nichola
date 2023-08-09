@@ -1,4 +1,4 @@
-# Nichola Saputra - Full-stack Developer
+## Nichola Saputra - Full-stack Developer
 
 A happy full-stack developer who likes to have fun😁.
 
@@ -6,7 +6,7 @@ I work on many projects, ranging from blog applications, Point on Sale etc. Righ
 
 See all my previous projects and my complete experience at [dev-nichola.my.id](https://dev-nichola.my.id)
 
-##Here's a list of my tech stack and skills:
+## Here's a list of my tech stack and skills:
 
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
