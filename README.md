@@ -1,4 +1,4 @@
-## Nichola Saputra - Full-stack Developer
+# Nichola Saputra - Full-stack Developer
 
 A happy full-stack developer who likes to have fun😁.
 
